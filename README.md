@@ -1,25 +1,23 @@
 ![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 
-<h1 align="center">Hi 👋, I'm Sushant Kapare</h1>
-<h3 align="center">A passionate Cloud Devops Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Sumit Kumar Sharma</h1>
+<h3 align="center">A passionate Devops and Application Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 I’m currently working on **AWS and Devops Projects**
 
-- 🌱 I’m currently learnig **Python and Go lang**
+- 🌱 I’m currently learnig **Python and Kubernetes**
 
-- 👨‍💻 All of my projects are available at https://github.com/SushantOps/My_Projects
+- 📝 I regularly write articles on [https://jameslab.in](https://jameslab.in)
 
-- 📝 I regularly write articles on [https://medium.com/@sushantkapare1717](https://medium.com/@sushantkapare1717)
+- 💬 Ask me about anything  **AWS, Linux, Devops, open-source**
 
-- 💬 Ask me about anything  **AWS,Devops,open-source**
-
-- 📫 How to reach me **sushantkapare1717@gmail.com**
+- 📫 How to reach me **sumit.iit.251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sushantkapare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ sushant-kapare-086960213" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumiitsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ sushant-kapare-086960213" height="30" width="40" /></a>
 </p>
 
 ---
