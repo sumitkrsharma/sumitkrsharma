@@ -32,20 +32,20 @@
 
 <details>
 <summary><b>📊 GitHub Profile Stats</b></summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SushantOps&show_icons=true&locale=en" alt="SushantOps" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sumitkrsharma&show_icons=true&locale=en" alt="sumitkrsharma" />
 </details>
 <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushantOps&theme=aura" alt="SushantOps" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantOps&theme=aura" alt="SushantOps" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitkrsharma&theme=aura" alt="sumitkrsharma" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitkrsharma&theme=aura" alt="sumitkrsharma" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantOps&theme=great_gatsby" alt="SushantOps" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkrsharma&theme=great_gatsby" alt="sumitkrsharma" /></p>
  
 
 </details>
