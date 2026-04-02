@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learnig **Python and Kubernetes**
 
-- 📝 I regularly write articles on [https://blog.jameslab.in](https://blog.jameslab.in)
+- 📝 I regularly write articles on ([https://blog.jameslab.in](https://sumitkrsharma.github.io/)
 
 - 💬 Ask me about anything  **AWS, Linux, Devops, open-source**
 
